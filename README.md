@@ -1,6 +1,3 @@
-Here's a **README.md** file template for your Next.js app that teaches users how to install, run, and use your GitHub Profile Search App:
-
----
 
 # **GitHub Profile Search App**
 
